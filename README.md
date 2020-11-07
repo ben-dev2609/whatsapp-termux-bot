@@ -1,4 +1,4 @@
-## WHATSAPP TERMUX BOT
+## WHATSAPP TERMUX BOT !!
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 <p align="center">
@@ -26,8 +26,10 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > Download Termux
 > Buka APK Termux nya
 > termux-setup-storage
+> pkg install git
 > apt update && apt upgrade
-> git clone https://github.com/ben-dev2609/whatsapp-termux-bot.git
+> apt install
+> git clone https://github.com/ben-dev2609/whatsapp-termux-bot
 > cd whatsapp-termux-bot
 > pkg install wget
 > pkg install ffmpeg
