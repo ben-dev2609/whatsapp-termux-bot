@@ -56,22 +56,29 @@ Clone the project and run
 after running it you need to scan the qr
 
 
-## features 
+## FEATURES
 
-```bash
-> Sticker 
+| STATUS        |               FITUR     |
+| :-----------: | :--------------------------------:  |
+|       ✅       |    PANTUN                         |
+|       ✅       | ANIMEPICT                         |
+|       ✅       | STICKER                           |
+|       ✅       | NULIS                             |
+|       ✅       | QUOTES                            |
+|       ✅       | RANDOM PICT                       |
+|       ✅       | ANIMEPICT                         |
+|       ✅       | LIRIK                             |
+|       ✅       | ALAY                              |
+|       ✅       | YT,YTMP3,IG,TWT DOWNLOADER        |
+|       ✅       | WIKIPEDIA                         |
+|       ✅       | ARTI NAMA                         |
 
-> Nama 
 
-> Nulis
 
-> Random pantun
 
-> Penyegar Timeline
+## THANKS TO
+* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`botst4rz`](https://github.com/Bintang73/botst4rz)
 
-> Youtube Downloader
-
-> Youtube MP3
-```
-
-more features was coming soon
+## DONASI
+* [`Saweria`](https://saweria.co/Ebenezer)
