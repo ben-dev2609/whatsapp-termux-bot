@@ -24,6 +24,9 @@
 ## Installation
 
 
+
+
+
 # Termux
 ```bash
 > git clone https://github.com/ben-dev2609/whatsapp-termux-bot
@@ -72,6 +75,11 @@ after running it you need to scan the qr
 |       ✅       | YT,YTMP3,IG,TWT DOWNLOADER        |
 |       ✅       | WIKIPEDIA                         |
 |       ✅       | ARTI NAMA                         |
+
+
+
+
+
 
 
 
